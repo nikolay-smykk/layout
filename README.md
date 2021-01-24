@@ -58,3 +58,6 @@
 | 54  | [Elena-Joy](https://github.com/nikolay-smykk/layout/tree/main/Elena-Joy)                                       | [Live Demo](http://nikolay-smyk.ru/Elena-Joy/)                     |
 | 55  | [other-todo](https://github.com/nikolay-smykk/layout/tree/main/other-todo)                                     | [Live Demo](http://nikolay-smyk.ru/other-todo/)                    |
 | 56  | [Portofolio ](https://github.com/nikolay-smykk/layout/tree/main/Portofolio)                                    | [Live Demo](http://nikolay-smyk.ru/Portofolio/)                    |
+| 57  | [Travelly ](https://github.com/nikolay-smykk/layout/tree/main/Travelly)                                        | [Live Demo](http://nikolay-smyk.ru/Travelly/)                      |
+| 56  | [Travel ](https://github.com/nikolay-smykk/layout/tree/main/Travel)                                            | [Live Demo](http://nikolay-smyk.ru/Travel/)                        |
+| 56  | [Coloors ](https://github.com/nikolay-smykk/layout/tree/main/Coloors)                                          | [Live Demo](http://nikolay-smyk.ru/Coloors/)                       |

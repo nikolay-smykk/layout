@@ -55,3 +55,4 @@
 | 51  | [3d-boxes-background](https://github.com/nikolay-smykk/layout/tree/main/3d-boxes-background)                   | [Live Demo](http://nikolay-smyk.ru/3d-boxes-background/)           |
 | 52  | [glass-website](https://github.com/nikolay-smykk/layout/tree/main/glass-website)                               | [Live Demo](http://nikolay-smyk.ru/glass-website/)                 |
 | 53  | [modern-Loader-with-Gradient](https://github.com/nikolay-smykk/layout/tree/main/modern-Loader-with-Gradient)   | [Live Demo](http://nikolay-smyk.ru/modern-Loader-with-Gradient/)   |
+| 54  | [Elena-Joy](https://github.com/nikolay-smykk/layout/tree/main/Elena-Joy)                                       | [Live Demo](http://nikolay-smyk.ru/Elena-Joy/)                     |

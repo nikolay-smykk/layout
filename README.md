@@ -61,3 +61,4 @@
 | 57  | [Travelly ](https://github.com/nikolay-smykk/layout/tree/main/Travelly)                                        | [Live Demo](http://nikolay-smyk.ru/Travelly/)                      |
 | 58  | [Travel ](https://github.com/nikolay-smykk/layout/tree/main/Travel)                                            | [Live Demo](http://nikolay-smyk.ru/Travel/)                        |
 | 59  | [Coloors ](https://github.com/nikolay-smykk/layout/tree/main/Coloors)                                          | [Live Demo](http://nikolay-smyk.ru/Coloors/)                       |
+| 60  | [checkerboar-Reveal ](https://github.com/nikolay-smykk/layout/tree/main/checkerboar-Reveal)                    | [Live Demo](http://nikolay-smyk.ru/checkerboar-Reveal/)            |
